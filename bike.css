@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left-nav ul{
+    float: left;
+    margin-left: 380px;
+    margin-right: 10px;   
+}
+.navbar{
+    line-height: 100px;
+    position:relative;
+    width: 100%;
+    position: fixed;
+}
+
+.img{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 350px;
+}
+.navbar ul li{
+    display: inline;
+    list-style-type:none ;
+}
+.navbar ul li a{
+    color: white; 
+    padding: 7px;
+    text-decoration: none;
+    font-size: 15PX;
+    font-weight: bolder;
+    letter-spacing: 0.1em;
+}
+.new{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./space.webp);
+    background-size: cover;
+}
+.new-a{
+    color: white;
+    margin-top: 25em;
+    margin-left: 100px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.new-b{
+    text-decoration: none;
+    border: 4px white solid;
+    color: white;
+    padding: 20px 40px 20px 40px;
+    position: absolute;
+    margin-top: 10px;
+}
+.matter{
+    
+    height: 100vh;
+    width: 100%;
+    background-image: url(./Homepage_Desktop.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.matter-q {
+    position: absolute;
+    color:rgb(241, 237, 237);
+    margin-top: 500px;
+    left: 5em;   
+}
+.matter p {
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.matter h1{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.matter-a{
+    text-decoration: none;
+    color: white;
+    padding:20px 40px 20px 40px;
+    border: 4px white solid;
+    position: absolute;
+    margin-top: 40px;
+ }
+ .container1{
+     height: 100vh;
+     background-image: url(./Space-X-clone-main/bgimage4.jpg);
+     color: white;
+ }
+ .p{
+     font-size: 20px;
+     letter-spacing: 2px;
+     text-transform: uppercase;
+     position: absolute;
+     margin-top: 500px;
+     margin-left: 4em;
+ }
+.a{
+    color: white;
+    text-decoration: none;
+    border:4px white solid;
+    padding: 20px 40px 20px 40px;
+    position: absolute;
+    top: 5em;
+}
+.container2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./Homepage_Axiom_1_Splashdown_20220425_DSC07376_Desktop.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p2 {
+    color: white;
+    letter-spacing: 2px;
+    margin-left: 7em;
+    margin-top: 500px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;  
+}
+.b{
+    text-decoration: none;
+    border: 4px white solid;
+    color: white;
+    padding: 20px 40px 20px 40px;
+    margin-top: 600px;
+    margin-left: 9em;
+    position: absolute;
+}
+.container3{
+    background-image: url(./Homepage_Desktop\ \(1\).webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.h{
+     color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-top: 450px;
+    position: absolute;
+    left: 8em;
+    font-size: 18px;
+    
+}
+.sai{
+    color: white;
+    text-decoration: none;
+    border: 4px white solid;
+    padding: 20px 40px 20px 40px;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 8em;
+    font-size: 16px;
+}
+.container4{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.spacex.com/static/images/backgrounds-2022/starship-update/S20_Chopstick_Stack_Desktop.webp);
+}
+.k{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 480px;
+    position: absolute;
+    margin-left: 4em;
+}
+.l{
+    text-decoration: none;
+    border: 4px white solid;
+    color: white;
+    margin-top: 550px;
+    position: absolute;
+    margin-left: 11em;
+    padding: 20px 40px 20px 40px;
+    font-weight: bolder;
+
+}
+.container5{
+    background-image: url(./Space-X-clone-main/bgimage2.jpg);
+    height: 100vh;
+    width: 100%;
+    position:absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.f{
+    color: white;
+    margin-top: 450px;
+    margin-left: 7em;
+    font-size: 20px;
+}
+.f-a{
+    text-decoration: none;
+    color: white;
+    border: 4px white solid;
+    padding: 20px 40px 20px 40px;
+    margin-top: 50px;
+    position: absolute ;
+    margin-left: 1em;
+}
+
+.social{
+    background-color: black;
+    margin-top: 800px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+/* Btn */
+  #rw:hover{
+      color: black;
+      background: white;
+      transition: 35ms ; 
+  }
