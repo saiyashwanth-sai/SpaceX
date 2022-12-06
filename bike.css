@@ -87,7 +87,7 @@
  }
  .container1{
      height: 100vh;
-     background-image: url(./Space-X-clone-main/bgimage4.jpg);
+     background-image: url(bgimage4.jpg);
      color: white;
  }
  .p{
@@ -186,7 +186,7 @@
 
 }
 .container5{
-    background-image: url(./Space-X-clone-main/bgimage2.jpg);
+    background-image: url(bgimage2.jpg);
     height: 100vh;
     width: 100%;
     position:absolute;
